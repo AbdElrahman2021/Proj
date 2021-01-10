@@ -1,0 +1,10 @@
+C:\Users\Abd-ElRahman\source\repos\X_O\X_O\bin\Debug\X_O.exe.config
+C:\Users\Abd-ElRahman\source\repos\X_O\X_O\bin\Debug\X_O.exe
+C:\Users\Abd-ElRahman\source\repos\X_O\X_O\bin\Debug\X_O.pdb
+C:\Users\Abd-ElRahman\source\repos\X_O\X_O\obj\Debug\X_O.csprojAssemblyReference.cache
+C:\Users\Abd-ElRahman\source\repos\X_O\X_O\obj\Debug\X_O.X_O_game.resources
+C:\Users\Abd-ElRahman\source\repos\X_O\X_O\obj\Debug\X_O.Properties.Resources.resources
+C:\Users\Abd-ElRahman\source\repos\X_O\X_O\obj\Debug\X_O.csproj.GenerateResource.cache
+C:\Users\Abd-ElRahman\source\repos\X_O\X_O\obj\Debug\X_O.csproj.CoreCompileInputs.cache
+C:\Users\Abd-ElRahman\source\repos\X_O\X_O\obj\Debug\X_O.exe
+C:\Users\Abd-ElRahman\source\repos\X_O\X_O\obj\Debug\X_O.pdb
